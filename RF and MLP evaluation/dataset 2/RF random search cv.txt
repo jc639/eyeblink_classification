@@ -1,0 +1,39 @@
+BEST ACCURACY SCORE:
+0.853333333333
+BEST PARAMETERS:
+{'n_estimators': 400, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': 80, 'bootstrap': True}
+
+ACCURACY SCORE ON HOLDOUT TEST SET:
+0.86
+
+
+mean: 0.82667, std: 0.02236, params: {'n_estimators': 400, 'min_samples_split': 10, 'min_samples_leaf': 2, 'max_features': 0.25, 'max_depth': 50, 'bootstrap': True}
+mean: 0.77333, std: 0.01876, params: {'n_estimators': 1600, 'min_samples_split': 5, 'min_samples_leaf': 4, 'max_features': 0.75, 'max_depth': 40, 'bootstrap': False}
+mean: 0.79111, std: 0.02289, params: {'n_estimators': 1800, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 0.25, 'max_depth': 100, 'bootstrap': False}
+mean: 0.84000, std: 0.03300, params: {'n_estimators': 1800, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'log2', 'max_depth': 50, 'bootstrap': True}
+mean: 0.85333, std: 0.03346, params: {'n_estimators': 400, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': 80, 'bootstrap': True}
+mean: 0.76889, std: 0.03136, params: {'n_estimators': 600, 'min_samples_split': 10, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': None, 'bootstrap': False}
+mean: 0.77556, std: 0.02490, params: {'n_estimators': 600, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 0.5, 'max_depth': 100, 'bootstrap': False}
+mean: 0.76444, std: 0.03244, params: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 0.75, 'max_depth': 70, 'bootstrap': False}
+mean: 0.76889, std: 0.04917, params: {'n_estimators': 1600, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 0.75, 'max_depth': 40, 'bootstrap': False}
+mean: 0.83333, std: 0.03413, params: {'n_estimators': 1600, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': 'auto', 'max_depth': 40, 'bootstrap': True}
+mean: 0.79333, std: 0.02163, params: {'n_estimators': 1000, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': 0.25, 'max_depth': 60, 'bootstrap': False}
+mean: 0.76222, std: 0.03989, params: {'n_estimators': 1000, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 0.75, 'max_depth': 110, 'bootstrap': False}
+mean: 0.78000, std: 0.02388, params: {'n_estimators': 1600, 'min_samples_split': 10, 'min_samples_leaf': 1, 'max_features': 0.25, 'max_depth': 50, 'bootstrap': False}
+mean: 0.76889, std: 0.03167, params: {'n_estimators': 400, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 0.5, 'max_depth': 10, 'bootstrap': False}
+mean: 0.83111, std: 0.02356, params: {'n_estimators': 400, 'min_samples_split': 10, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 40, 'bootstrap': True}
+mean: 0.84222, std: 0.03600, params: {'n_estimators': 1800, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 'log2', 'max_depth': 70, 'bootstrap': False}
+mean: 0.84000, std: 0.02495, params: {'n_estimators': 400, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'auto', 'max_depth': 20, 'bootstrap': False}
+mean: 0.84000, std: 0.02976, params: {'n_estimators': 200, 'min_samples_split': 10, 'min_samples_leaf': 2, 'max_features': 'auto', 'max_depth': 10, 'bootstrap': False}
+mean: 0.82000, std: 0.01828, params: {'n_estimators': 400, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 0.75, 'max_depth': 30, 'bootstrap': True}
+mean: 0.77111, std: 0.03517, params: {'n_estimators': 1200, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 70, 'bootstrap': False}
+mean: 0.82889, std: 0.02566, params: {'n_estimators': 1000, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': 0.5, 'max_depth': 20, 'bootstrap': True}
+mean: 0.84222, std: 0.02783, params: {'n_estimators': 200, 'min_samples_split': 5, 'min_samples_leaf': 4, 'max_features': 'auto', 'max_depth': 30, 'bootstrap': False}
+mean: 0.79111, std: 0.02289, params: {'n_estimators': 2000, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 0.25, 'max_depth': 110, 'bootstrap': False}
+mean: 0.77111, std: 0.01458, params: {'n_estimators': 1200, 'min_samples_split': 5, 'min_samples_leaf': 4, 'max_features': 0.75, 'max_depth': 80, 'bootstrap': False}
+mean: 0.83778, std: 0.02638, params: {'n_estimators': 200, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'auto', 'max_depth': None, 'bootstrap': False}
+mean: 0.84222, std: 0.02442, params: {'n_estimators': 1200, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 80, 'bootstrap': True}
+mean: 0.82667, std: 0.02699, params: {'n_estimators': 1600, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 0.25, 'max_depth': 50, 'bootstrap': True}
+mean: 0.82444, std: 0.04214, params: {'n_estimators': 800, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 'log2', 'max_depth': 50, 'bootstrap': True}
+mean: 0.76444, std: 0.05125, params: {'n_estimators': 1200, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 0.75, 'max_depth': 10, 'bootstrap': False}
+mean: 0.78667, std: 0.02111, params: {'n_estimators': 400, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 0.5, 'max_depth': 110, 'bootstrap': False}

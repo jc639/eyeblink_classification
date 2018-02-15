@@ -1,0 +1,10 @@
+NUMBER CLASSIFIED:
+3097
+TOTAL NUMBER OF SAMPLES:
+7873
+PERCENT CLASSIFIED:
+39.34%
+336 No CRs classified
+2038 CRs classified
+692 Not Flats classified
+31 Alphas classified
